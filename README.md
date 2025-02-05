@@ -1,10 +1,11 @@
 ## Julian Alejandro Mantel
 
 ## Sobre mí
-- 🚀 Desarrollador Backend.
-- 📚 Aprendije constante.
+- 🚀 Desarrollador Junior Backend.
+- 📚 Aprendizaje constante.
 
-## Mis habilidades
+## Habilidades técnicas
 - **Lenguajes**: C++, C#, Java.
 - **Frameworks**: ASP.NET, Bootstrap, Blazor.
 - **Herramientas**: Git, Docker, Visual Studio 2022.
+- **Base de dato**: SqlServer, PostgreSQL, MySQL
