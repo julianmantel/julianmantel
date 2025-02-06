@@ -1,4 +1,5 @@
 ## Julian Alejandro Mantel
+### 📝 Estudiante de Lic. en sistemas de información.
 
 ## Sobre mí
 - 🚀 Desarrollador Junior Backend.
