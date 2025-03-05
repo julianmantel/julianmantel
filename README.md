@@ -8,5 +8,5 @@
 ## Habilidades técnicas
 - **Lenguajes**: C++, C#, Java, PHP.
 - **Frameworks**: ASP.NET, Bootstrap, Blazor.
-- **Herramientas**: Git, Docker, Visual Studio 2022.
+- **Herramientas**: Git, Visual Studio 2022.
 - **Base de dato**: SqlServer, PostgreSQL, MySQL
